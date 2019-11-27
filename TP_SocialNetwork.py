@@ -5,7 +5,14 @@ Created on Wed Nov 13 10:14:29 2019
 @author: SERHIR Mohamed
 """
 
-l_arcs = [('Andreas', 'Bernard'), ('Bernard', 'Andreas'), ('Cathie', 'Andreas'), ('Cathie', 'Daniel'), ('Bernard', 'Cathie'), ('Bernard', 'Daniel'), ('Bernard', 'Emmanuel'), ('Daniel', 'Emmanuel')]
+l_arcs = [('Andreas', 'Bernard'), 
+          ('Bernard', 'Andreas'), 
+          ('Cathie', 'Andreas'), 
+          ('Cathie', 'Daniel'), 
+          ('Bernard', 'Cathie'), 
+          ('Bernard', 'Daniel'), 
+          ('Bernard', 'Emmanuel'), 
+          ('Daniel', 'Emmanuel')]
 
 #print(l_arcs)
 
