@@ -1,3 +1,0 @@
-The number of DNA bases
-is huge
-However, not all bases are used to transmit genetic fea
