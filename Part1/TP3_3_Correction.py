@@ -71,7 +71,7 @@ def assign_letter_grade(score):
 
 
 # Function to calculate the total
-# average marks of the whole class 
+# average marks of the whole class
 def class_average_is(student_list):
     result_list = []
 
