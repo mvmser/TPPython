@@ -105,16 +105,17 @@ else:
     smallest = a
     biggest = b
 
-for i in range(smallest, biggest +1):
+for i in range(smallest, biggest -1):
     print(i)
+    """
     if i == smallest:
         listN.append(smallest + smallest - 1)
-        """
+        
     else:
         listN.append(listN[i] + listN[i] - 1)
-        """
+        
     print(listN[i])
-
+"""
 
 print(sum(listN) - (a+b))
 
