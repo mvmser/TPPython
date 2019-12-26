@@ -6,7 +6,6 @@ Created on Wed Dec 11 14:10:47 2019
 
 import math
 import numpy as np
-from sympy import symbols, Eq, solve
 
 # main python program
 response = ['Welcome to smart calculator', 'Hello ', 'Thanks for enjoy with me',
